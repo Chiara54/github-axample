@@ -1,4 +1,4 @@
-# github-axample
+# github-example
 demonstration of how to create a Github repository and set it up
 
 here the link to the notebook for the first week assignment
